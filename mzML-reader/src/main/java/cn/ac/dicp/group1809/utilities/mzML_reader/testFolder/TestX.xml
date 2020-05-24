@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<fileDescription>
+	<fileContent>
+		<cvParam cvRef="MS" accession="MS:1000580" name="MSn spectrum" value=""/>
+		<cvParam cvRef="MS" accession="MS:1000127" name="centroid spectrum" value=""/>
+	</fileContent>
+	<sourceFileList count="3">
+		<sourceFile id="tiny1.yep" name="tiny1.yep" location="file://F:/data/Exp01">
+			<cvParam cvRef="MS" accession="MS:1000567" name="Bruker/Agilent YEP file" value=""/>
+			<cvParam cvRef="MS" accession="MS:1000569" name="SHA-1" value="1234567890123456789012345678901234567890"/>
+			<cvParam cvRef="MS" accession="MS:1000771" name="Bruker/Agilent YEP nativeID format" value=""/>
+		</sourceFile>
+		<sourceFile id="tiny.wiff" name="tiny.wiff" location="file://F:/data/Exp01">
+			<cvParam cvRef="MS" accession="MS:1000562" name="ABI WIFF file" value=""/>
+			<cvParam cvRef="MS" accession="MS:1000569" name="SHA-1" value="2345678901234567890123456789012345678901"/>
+			<cvParam cvRef="MS" accession="MS:1000770" name="WIFF nativeID format" value=""/>
+		</sourceFile>
+		<sourceFile id="sf_parameters" name="parameters.par" location="file://C:/settings/">
+			<cvParam cvRef="MS" accession="MS:1000740" name="parameter file" value=""/>
+			<cvParam cvRef="MS" accession="MS:1000569" name="SHA-1" value="3456789012345678901234567890123456789012"/>
+			<cvParam cvRef="MS" accession="MS:1000824" name="no nativeID format" value=""/>
+		</sourceFile>
+	</sourceFileList>
+	<contact>
+		<cvParam cvRef="MS" accession="MS:1000586" name="contact name" value="William Pennington"/>
+		<cvParam cvRef="MS" accession="MS:1000590" name="contact organization" value="Higglesworth University"/>
+		<cvParam cvRef="MS" accession="MS:1000587" name="contact address" value="12 Higglesworth Avenue, 12045, HI, USA"/>
+		<cvParam cvRef="MS" accession="MS:1000588" name="contact URL" value="http://www.higglesworth.edu/"/>
+		<cvParam cvRef="MS" accession="MS:1000589" name="contact email" value="wpennington@higglesworth.edu"/>
+	</contact>
+</fileDescription>
